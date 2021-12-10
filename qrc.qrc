@@ -1,0 +1,549 @@
+<RCC>
+  <qresource prefix="1">
+    <file>bg.jpg</file>
+    <file>bg.jpg</file>
+    <file>bg.jpg</file>
+    <file>icons/btn.png</file>
+    <file>icons/gmail.png</file>
+    <file>icons/Twitter.png</file>
+    <file>icons/Twitter.png</file>
+    <file>icons/Spotify.png</file>
+    <file>icons/spotify.jpg</file>
+    <file>icons/spotify.png</file>
+    <file>icons/github.png</file>
+    <file>icons/cil-check-alt.png</file>
+    <file>icons/a280d4682526fe329f04664dca0b45dc.jpg</file>
+    <file>bg.png</file>
+    <file>Background.png</file>
+    <file>IMG_20210210_181147.jpg</file>
+    <file>icons/8_12_14 Clouds at sunset.jfif</file>
+    <file>icons/More/111846-email-console/png/add-email.png</file>
+    <file>icons/More/111846-email-console/png/add-image.png</file>
+    <file>icons/More/111846-email-console/png/archive.png</file>
+    <file>icons/More/111846-email-console/png/attach.png</file>
+    <file>icons/More/111846-email-console/png/attached-files.png</file>
+    <file>icons/More/111846-email-console/png/business-email.png</file>
+    <file>icons/More/111846-email-console/png/contacts.png</file>
+    <file>icons/More/111846-email-console/png/contacts-1.png</file>
+    <file>icons/More/111846-email-console/png/delete-email.png</file>
+    <file>icons/More/111846-email-console/png/edit-email.png</file>
+    <file>icons/More/111846-email-console/png/email.png</file>
+    <file>icons/More/111846-email-console/png/email-1.png</file>
+    <file>icons/More/111846-email-console/png/email-2.png</file>
+    <file>icons/More/111846-email-console/png/email-3.png</file>
+    <file>icons/More/111846-email-console/png/email-4.png</file>
+    <file>icons/More/111846-email-console/png/email-5.png</file>
+    <file>icons/More/111846-email-console/png/email-6.png</file>
+    <file>icons/More/111846-email-console/png/email-7.png</file>
+    <file>icons/More/111846-email-console/png/email-8.png</file>
+    <file>icons/More/111846-email-console/png/email-9.png</file>
+    <file>icons/More/111846-email-console/png/email-10.png</file>
+    <file>icons/More/111846-email-console/png/email-11.png</file>
+    <file>icons/More/111846-email-console/png/email-12.png</file>
+    <file>icons/More/111846-email-console/png/email-13.png</file>
+    <file>icons/More/111846-email-console/png/email-14.png</file>
+    <file>icons/More/111846-email-console/png/email-15.png</file>
+    <file>icons/More/111846-email-console/png/email-16.png</file>
+    <file>icons/More/111846-email-console/png/email-17.png</file>
+    <file>icons/More/111846-email-console/png/email-18.png</file>
+    <file>icons/More/111846-email-console/png/email-on-phone.png</file>
+    <file>icons/More/111846-email-console/png/email-on-watch.png</file>
+    <file>icons/More/111846-email-console/png/email-support-team.png</file>
+    <file>icons/More/111846-email-console/png/folder.png</file>
+    <file>icons/More/111846-email-console/png/inbox.png</file>
+    <file>icons/More/111846-email-console/png/laptop.png</file>
+    <file>icons/More/111846-email-console/png/letter.png</file>
+    <file>icons/More/111846-email-console/png/link.png</file>
+    <file>icons/More/111846-email-console/png/new-message.png</file>
+    <file>icons/More/111846-email-console/png/outbox.png</file>
+    <file>icons/More/111846-email-console/png/print.png</file>
+    <file>icons/More/111846-email-console/png/screen.png</file>
+    <file>icons/More/111846-email-console/png/search-contacts.png</file>
+    <file>icons/More/111846-email-console/png/send-email.png</file>
+    <file>icons/More/111846-email-console/png/sending-email.png</file>
+    <file>icons/More/111846-email-console/png/settings.png</file>
+    <file>icons/More/111846-email-console/png/spam-filter.png</file>
+    <file>icons/More/111846-email-console/png/statistics.png</file>
+    <file>icons/More/111846-email-console/png/tag.png</file>
+    <file>icons/More/111846-email-console/png/trash.png</file>
+    <file>icons/More/111846-email-console/png/write.png</file>
+    <file>IMG_20210210_181147.jpg</file>
+    <file>photo_2021-02-10_19-15-11.jpg</file>
+    <file>icons/cil-3d.png</file>
+    <file>icons/cil-4k.png</file>
+    <file>icons/cil-airplay.png</file>
+    <file>icons/cil-arrow-bottom.png</file>
+    <file>icons/cil-arrow-circle-bottom.png</file>
+    <file>icons/cil-arrow-circle-left.png</file>
+    <file>icons/cil-arrow-circle-right.png</file>
+    <file>icons/cil-arrow-circle-top.png</file>
+    <file>icons/cil-arrow-left.png</file>
+    <file>icons/cil-arrow-right.png</file>
+    <file>icons/cil-arrow-top.png</file>
+    <file>icons/cil-browser.png</file>
+    <file>icons/cil-camera.png</file>
+    <file>icons/cil-camera-roll.png</file>
+    <file>icons/cil-chart-line.png</file>
+    <file>icons/cil-check.png</file>
+    <file>icons/cil-check-alt.png</file>
+    <file>icons/cil-check-circle.png</file>
+    <file>icons/cil-chevron-bottom.png</file>
+    <file>icons/cil-chevron-circle-left-alt.png</file>
+    <file>icons/cil-chevron-circle-right-alt.png</file>
+    <file>icons/cil-chevron-circle-up-alt.png</file>
+    <file>icons/cil-chevron-double-up-alt.png</file>
+    <file>icons/cil-code.png</file>
+    <file>icons/cil-comment-bubble.png</file>
+    <file>icons/cil-comment-square.png</file>
+    <file>icons/cil-copy.png</file>
+    <file>icons/cil-credit-card.png</file>
+    <file>icons/cil-cursor.png</file>
+    <file>icons/cil-cursor-move.png</file>
+    <file>icons/cil-description.png</file>
+    <file>icons/cil-dialpad.png</file>
+    <file>icons/cil-envelope-closed.png</file>
+    <file>icons/cil-envelope-letter.png</file>
+    <file>icons/cil-envelope-open.png</file>
+    <file>icons/cil-equalizer.png</file>
+    <file>icons/cil-exit-to-app.png</file>
+    <file>icons/cil-exposure.png</file>
+    <file>icons/cil-external-link.png</file>
+    <file>icons/cil-file.png</file>
+    <file>icons/cil-folder.png</file>
+    <file>icons/cil-folder-open.png</file>
+    <file>icons/cil-fullscreen.png</file>
+    <file>icons/cil-fullscreen-exit.png</file>
+    <file>icons/cil-gamepad.png</file>
+    <file>icons/cil-hand-point-down.png</file>
+    <file>icons/cil-hand-point-left.png</file>
+    <file>icons/cil-hand-point-right.png</file>
+    <file>icons/cil-hand-point-up.png</file>
+    <file>icons/cil-headphones.png</file>
+    <file>icons/cil-heart.png</file>
+    <file>icons/cil-home.png</file>
+    <file>icons/cil-https.png</file>
+    <file>icons/cil-image1.png</file>
+    <file>icons/cil-image-plus.png</file>
+    <file>icons/cil-infinity.png</file>
+    <file>icons/cil-input.png</file>
+    <file>icons/cil-justify-center.png</file>
+    <file>icons/cil-justify-left.png</file>
+    <file>icons/cil-justify-right.png</file>
+    <file>icons/cil-library.png</file>
+    <file>icons/cil-library-add.png</file>
+    <file>icons/cil-lightbulb.png</file>
+    <file>icons/cil-link.png</file>
+    <file>icons/cil-link-alt.png</file>
+    <file>icons/cil-link-broken.png</file>
+    <file>icons/cil-list.png</file>
+    <file>icons/cil-location-pin.png</file>
+    <file>icons/cil-lock-locked.png</file>
+    <file>icons/cil-lock-unlocked.png</file>
+    <file>icons/cil-loop.png</file>
+    <file>icons/cil-loop-circular.png</file>
+    <file>icons/cil-media-eject.png</file>
+    <file>icons/cil-media-pause.png</file>
+    <file>icons/cil-media-play.png</file>
+    <file>icons/cil-media-record.png</file>
+    <file>icons/cil-media-skip-backward.png</file>
+    <file>icons/cil-media-skip-forward.png</file>
+    <file>icons/cil-media-step-backward.png</file>
+    <file>icons/cil-media-step-forward.png</file>
+    <file>icons/cil-media-stop.png</file>
+    <file>icons/cil-medical-cross.png</file>
+    <file>icons/cil-meh.png</file>
+    <file>icons/cil-menu.png</file>
+    <file>icons/cil-microphone.png</file>
+    <file>icons/cil-minus.png</file>
+    <file>icons/cil-mobile.png</file>
+    <file>icons/cil-mobile-landscape.png</file>
+    <file>icons/cil-monitor.png</file>
+    <file>icons/cil-mood-bad.png</file>
+    <file>icons/cil-mood-good.png</file>
+    <file>icons/cil-mood-very-bad.png</file>
+    <file>icons/cil-mood-very-good.png</file>
+    <file>icons/cil-moon.png</file>
+    <file>icons/cil-mouse.png</file>
+    <file>icons/cil-mouth-slash.png</file>
+    <file>icons/cil-move.png</file>
+    <file>icons/cil-movie.png</file>
+    <file>icons/cil-mug-tea.png</file>
+    <file>icons/cil-music-note.png</file>
+    <file>icons/cil-newspaper.png</file>
+    <file>icons/cil-notes.png</file>
+    <file>icons/cil-object-ungroup.png</file>
+    <file>icons/cil-options.png</file>
+    <file>icons/cil-options-horizontal.png</file>
+    <file>icons/cil-paint-bucket.png</file>
+    <file>icons/cil-paperclip.png</file>
+    <file>icons/cil-paper-plane.png</file>
+    <file>icons/cil-pencil.png</file>
+    <file>icons/cil-people.png</file>
+    <file>icons/cil-pin.png</file>
+    <file>icons/cil-plus.png</file>
+    <file>icons/cil-power-standby.png</file>
+    <file>icons/cil-print.png</file>
+    <file>icons/cil-rain.png</file>
+    <file>icons/cil-reload.png</file>
+    <file>icons/cil-remove.png</file>
+    <file>icons/cil-rss.png</file>
+    <file>icons/cil-satelite.png</file>
+    <file>icons/cil-save.png</file>
+    <file>icons/cil-screen-desktop.png</file>
+    <file>icons/cil-settings.png</file>
+    <file>icons/cil-smile.png</file>
+    <file>icons/cil-speech.png</file>
+    <file>icons/cil-speedometer.png</file>
+    <file>icons/cil-star.png</file>
+    <file>icons/cil-swap-horizontal.png</file>
+    <file>icons/cil-swap-vertical.png</file>
+    <file>icons/cil-tag.png</file>
+    <file>icons/cil-task.png</file>
+    <file>icons/cil-terminal.png</file>
+    <file>icons/cil-thumb-down.png</file>
+    <file>icons/cil-thumb-up.png</file>
+    <file>icons/cil-touch-app.png</file>
+    <file>icons/cil-transfer.png</file>
+    <file>icons/cil-trash.png</file>
+    <file>icons/cil-truck.png</file>
+    <file>icons/cil-user.png</file>
+    <file>icons/cil-user-female.png</file>
+    <file>icons/cil-user-follow.png</file>
+    <file>icons/cil-user-unfollow.png</file>
+    <file>icons/cil-vertical-align-bottom.png</file>
+    <file>icons/cil-vertical-align-center.png</file>
+    <file>icons/cil-vertical-align-top.png</file>
+    <file>icons/cil-video.png</file>
+    <file>icons/cil-view-column.png</file>
+    <file>icons/cil-view-module.png</file>
+    <file>icons/cil-view-quilt.png</file>
+    <file>icons/cil-view-stream.png</file>
+    <file>icons/cil-voice-over-record.png</file>
+    <file>icons/cil-volume-high.png</file>
+    <file>icons/cil-volume-low.png</file>
+    <file>icons/cil-volume-off.png</file>
+    <file>icons/cil-wallet.png</file>
+    <file>icons/cil-wallpaper.png</file>
+    <file>icons/cil-watch.png</file>
+    <file>icons/cil-wifi-signal-0.png</file>
+    <file>icons/cil-wifi-signal-1.png</file>
+    <file>icons/cil-wifi-signal-off.png</file>
+    <file>icons/cil-window-maximize.png</file>
+    <file>icons/cil-window-minimize.png</file>
+    <file>icons/cil-window-restore.png</file>
+    <file>icons/cil-x.png</file>
+    <file>icons/cil-x-circle.png</file>
+    <file>icons/cil-zoom-in.png</file>
+    <file>icons/cil-zoom-out.png</file>
+  </qresource>
+  <qresource prefix="More 6">
+    <file>icons/More/myicons/png/512/alien.png</file>
+    <file>icons/More/myicons/png/512/alien_abduction.png</file>
+    <file>icons/More/myicons/png/512/alien_angry.png</file>
+    <file>icons/More/myicons/png/512/alien_confused.png</file>
+    <file>icons/More/myicons/png/512/alien_grin.png</file>
+    <file>icons/More/myicons/png/512/alien_in_love.png</file>
+    <file>icons/More/myicons/png/512/alien_pixel.png</file>
+    <file>icons/More/myicons/png/512/alien_pixel2.png</file>
+    <file>icons/More/myicons/png/512/alien_sad.png</file>
+    <file>icons/More/myicons/png/512/alien_sleep.png</file>
+    <file>icons/More/myicons/png/512/asteroid.png</file>
+    <file>icons/More/myicons/png/512/asteroid2.png</file>
+    <file>icons/More/myicons/png/512/astronaut.png</file>
+    <file>icons/More/myicons/png/512/astronaut2.png</file>
+    <file>icons/More/myicons/png/512/attack_ball.png</file>
+    <file>icons/More/myicons/png/512/capsule_corp.png</file>
+    <file>icons/More/myicons/png/512/earth.png</file>
+    <file>icons/More/myicons/png/512/explorer.png</file>
+    <file>icons/More/myicons/png/512/ligthsaber.png</file>
+    <file>icons/More/myicons/png/512/mars.png</file>
+    <file>icons/More/myicons/png/512/moon.png</file>
+    <file>icons/More/myicons/png/512/moon2.png</file>
+    <file>icons/More/myicons/png/512/nebula.png</file>
+    <file>icons/More/myicons/png/512/observatory.png</file>
+    <file>icons/More/myicons/png/512/planet.png</file>
+    <file>icons/More/myicons/png/512/planetary.png</file>
+    <file>icons/More/myicons/png/512/robot.png</file>
+    <file>icons/More/myicons/png/512/rocket.png</file>
+    <file>icons/More/myicons/png/512/satellite.png</file>
+    <file>icons/More/myicons/png/512/satellite_dish.png</file>
+    <file>icons/More/myicons/png/512/space_base.png</file>
+    <file>icons/More/myicons/png/512/space_capsule.png</file>
+    <file>icons/More/myicons/png/512/space_shuttle.png</file>
+    <file>icons/More/myicons/png/512/space_shuttle_landing.png</file>
+    <file>icons/More/myicons/png/512/space_shuttle2.png</file>
+    <file>icons/More/myicons/png/512/star.png</file>
+    <file>icons/More/myicons/png/512/sun.png</file>
+    <file>icons/More/myicons/png/512/telescope.png</file>
+    <file>icons/More/myicons/png/512/ufo.png</file>
+    <file>icons/More/myicons/png/512/ufo2.png</file>
+    <file>icons/More/myicons/png/512/ufo3.png</file>
+  </qresource>
+  <qresource prefix="More 2">
+    <file>icons/More/151812-household-services/png/baby.png</file>
+    <file>icons/More/151812-household-services/png/baby-stroller.png</file>
+    <file>icons/More/151812-household-services/png/broom.png</file>
+    <file>icons/More/151812-household-services/png/bucket.png</file>
+    <file>icons/More/151812-household-services/png/chicken.png</file>
+    <file>icons/More/151812-household-services/png/cube.png</file>
+    <file>icons/More/151812-household-services/png/dishwashing.png</file>
+    <file>icons/More/151812-household-services/png/drop.png</file>
+    <file>icons/More/151812-household-services/png/drop-1.png</file>
+    <file>icons/More/151812-household-services/png/feeder.png</file>
+    <file>icons/More/151812-household-services/png/hammer.png</file>
+    <file>icons/More/151812-household-services/png/hanger.png</file>
+    <file>icons/More/151812-household-services/png/house.png</file>
+    <file>icons/More/151812-household-services/png/ironing.png</file>
+    <file>icons/More/151812-household-services/png/laundry.png</file>
+    <file>icons/More/151812-household-services/png/lifesaver.png</file>
+    <file>icons/More/151812-household-services/png/mitten.png</file>
+    <file>icons/More/151812-household-services/png/pickup.png</file>
+    <file>icons/More/151812-household-services/png/placeholder.png</file>
+    <file>icons/More/151812-household-services/png/pot.png</file>
+    <file>icons/More/151812-household-services/png/repair.png</file>
+    <file>icons/More/151812-household-services/png/sending.png</file>
+    <file>icons/More/151812-household-services/png/shirt.png</file>
+    <file>icons/More/151812-household-services/png/speaking.png</file>
+    <file>icons/More/151812-household-services/png/speech-bubble.png</file>
+    <file>icons/More/151812-household-services/png/speech-bubble-1.png</file>
+    <file>icons/More/151812-household-services/png/spray.png</file>
+    <file>icons/More/151812-household-services/png/toilet.png</file>
+    <file>icons/More/151812-household-services/png/trash.png</file>
+    <file>icons/More/151812-household-services/png/truck.png</file>
+    <file>icons/More/151812-household-services/png/washing-machine.png</file>
+    <file>icons/More/151812-household-services/png/wrench.png</file>
+  </qresource>
+  <qresource prefix="More 3">
+    <file>icons/More/155258-rounded-emoticon-set/png/angry.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/beat.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/boring.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/comfort.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/dead.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/dead-1.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/delight.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/exhausted.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/happy.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/happy-1.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/happy-2.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/happy-3.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/in-love.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/joke.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/kiss.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/love.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/meh.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/pain.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/playful.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/sad.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/sad-1.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/shocked.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/sick.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/silent.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/silent-1.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/tired.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/wink.png</file>
+    <file>icons/More/155258-rounded-emoticon-set/png/wonderful.png</file>
+  </qresource>
+  <qresource prefix="More 4">
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/0047.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0001.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0002.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0003.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0004.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0005.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0006.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0007.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0008.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0009.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0010.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0011.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0012.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0013.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0014.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0015.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0016.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0017.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0018.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0019.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0020.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0021.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0022.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0023.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0024.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0025.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0026.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0027.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0028.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0029.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0030.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0031.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0032.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0033.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0034.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0035.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0036.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0037.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0038.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0039.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0040.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0041.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0042.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0043.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0044.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0045.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0046.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0048.png</file>
+    <file>icons/More/myicons/3d-icons-free/Normal Resolution/perspaleta1_0049.png</file>
+  </qresource>
+  <qresource prefix="More 5">
+    <file>icons/More/myicons/flat pepole/png/72/actor.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/actress.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/admin.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/admin_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/agent.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/agent_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/ambassador.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/ambassador_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/archaeologist.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/archaeologist_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/artist.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/artist_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/astronaut.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/baker.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/baker_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/banker.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/banker_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/bellboy.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/bishop.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/bookkeeper.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/bookkeeper_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/boxer.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/boxer_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/bride.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/butcher.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/butcher_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/butler.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/call_center_operator.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/call_center_operator_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/cameraman.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/camerawoman.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/chauffeur.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/chef.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/chef_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/chief_of_staff.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/chief_of_staff_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/chief_of_staff_female2.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/clown.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/clown_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/detective.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/diver.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/doctor.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/doctor_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/doctor_female2.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/driver.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/electric_engineer.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/electric_engineer_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/electronic_engineer.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/electronic_engineer_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/environmental_engineer.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/environmental_engineer_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/farmer.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/farmer_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/firefighter.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/fisher_woman.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/fisherman.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/flight_attendant.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/flight_attendant_male.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/football_player.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/football_player_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/general.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/general_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/golfer.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/golfer_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/graduate.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/graduate_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/graphic_designer.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/graphic_designer_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/groom.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/guide.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/guide_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/hunter.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/imam.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/king.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/lawyer.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/lawyer_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/librarian.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/librarian_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/maid.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/model.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/model_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/movie_director.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/movie_director_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/musician.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/musician_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/musician_guitar.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/musician_guitar_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/nuclear_engineer.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/nuclear_engineer_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/nuclear_engineer2.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/nuclear_engineer3.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/nun.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/nurse.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/nurse_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/operator.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/operator_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/operator_female1.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/operator1.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/paramedic.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/paramedic_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/person_boy.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/person_girl.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/person_little_boy.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/person_little_girl.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/person_man.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/person_woman.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/photographer.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/photographer_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/pilot.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/pilot_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/police_woman.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/policeman.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/pope.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/president.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/president_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/priest.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/priest_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/programmer.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/programmer_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/psychiatrist.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/psychiatrist_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/queen.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/rabbi.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/receptionist.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/receptionist_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/reporter.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/reporter_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/salesman.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/saleswoman.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/scientist.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/scientist_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/social_care.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/soldier.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/student.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/student_girl.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/student_little_boy.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/student_little_girl.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/surgeon.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/systems_engineer.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/systems_engineer_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/teacher.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/teacher_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/tennis_player.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/tennis_player_female.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/waiter.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/waitress.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/watchman.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/writer.png</file>
+    <file>icons/More/myicons/flat pepole/png/72/writer_female.png</file>
+  </qresource>
+</RCC>
